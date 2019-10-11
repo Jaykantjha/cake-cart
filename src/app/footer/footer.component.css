@@ -1,0 +1,25 @@
+/* footer{
+    background-color: #262261;
+    color: #a39fdc;
+    margin-top: 20%;
+    }
+    a{
+        color: #a39fdc;
+    }
+
+    .footlogo{
+        margin-top: 16%;
+    } */
+    footer{
+        background-color: #262261;
+        color: #a39fdc;
+        margin-top: 20%;
+        }
+        a{
+            color: #a39fdc;
+        }
+    
+        .footlogo{
+            margin-top: 16%;
+            width: 100%;
+        }
